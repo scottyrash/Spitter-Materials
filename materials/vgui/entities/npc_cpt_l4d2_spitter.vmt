@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+"$basetexture" "VGUI/entities/npc_cpt_l4d2_spitter"
+"$nolod" 1
+"$vertexalpha" 1
+"$vertexcolor" 1
+}
